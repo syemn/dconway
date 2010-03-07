@@ -1,0 +1,6 @@
+
+This is an example implementation of Conway's game of life, using a distributed calculation paradigm with PVM.
+
+To build, just use:
+$ scons
+
